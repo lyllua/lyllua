@@ -16,14 +16,14 @@
 <!--h2-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate about Learning & Solving Challenges</h2></summary>
+    <summary><h2 style="display: inline-block">Building, Learning and Growing</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 💻 I’m currently a **Student of Development of Cross-Platform Applications**, passionate about learning and contributing creative ideas.  
+- 💻 I’m  a **Software Developer** passionate about learning, building impactful solutions and contributing creative ideas.  
 - 🌱 I have a strong interest in **software development, web & mobile applications, AI and cloud technologies**.  
-- 🚀 I enjoy solving challenging problems.
+- 🚀 I enjoy solving challenges.
 <!--Intro end-->
 
 <!--h2-->
@@ -36,7 +36,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,mysql,css,kotlin,git,bash&perline=12" style="margin:5px;" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,mysql,postgresql,css,kotlin,git,django,postman,bash&perline=12" style="margin:5px;" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@
 
 <!-- Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/lydia-serrano-bellón-203498175" target="_blank">🔗 LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/lydia-serrano-203498175/" target="_blank">🔗 LinkedIn</a> | 
   <a href="mailto:lydiaserranobellon@gmail.com" target="_blank">✉️ Email</a>
 </p>
 
